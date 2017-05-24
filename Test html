@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+	<title>This is the Title</title>
+
+</head>
+
+<style>
+    
+    body{
+        background-image: url(https://wallpaperbrowse.com/media/images/cool-pictures-24.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+	
+    #mainhead{
+            
+    }
+    
+    #colorfox{
+        background: http://wallpaper-gallery.net/images/cool-pictures/cool-pictures-24.jpg;
+        height: 200px;
+    }
+    
+    #table1{
+        margin-top: 10px;
+        color: teal;
+        background-color: black;
+    }
+    
+    #table2{
+        border-color: crimson;
+        margin-top: 20px;
+        background-color: aqua;
+    }
+    
+</style>
+
+
+<body>
+    
+    <h1 id="mainhead">Sulaman Yaqoob</h1>
+    
+     <img id="colorfox" src="http://wallpaper-gallery.net/images/cool-pictures/cool-pictures-24.jpg"/>
+
+<a title="Search Engine" href="http://google.com">This will be a link</a>
+    
+
+    <table id="table1" border="1px">
+        
+        <tr>
+            <th>Name</th>
+            <th>Movie</th>
+        </tr>
+        
+        <tr>
+            <td>Brad Pitt</td>
+            <td>Benjamin Button</td>
+            
+        <tr>
+            <td>Chris Hemsworth</td>
+            <td>Thor</td>
+        </tr>
+        
+    </table>
+    
+    <table id="table2" border="1px">
+        
+        <tr>
+            <th>Best Fruits</th>
+            <th>Reason</th>
+        </tr>
+        
+        <tr>
+            <td>#1 Mangoes</td>
+            <td>So nice and juicy are mangoes. Once you start, it's hard to stop.</td>
+        </tr>
+        
+        <tr>
+            <td>#2 Dates</td>
+            <td>So delicious, especially when ripe</td>
+        </tr>
+        
+        <tr>
+            <td>#3 Apple</td>
+            <td>I heard it keeps the doctor away.</td>
+        </tr>
+    
+    </table>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</body>
+
+
+</html>
